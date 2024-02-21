@@ -64,7 +64,7 @@ const Hero = () => {
   return (
     <div className="relative pb-80 lg:pb-40">
       <div className="lg:flex">
-        <div className="lg:w-1/2 w-full p-4 px-8 md:px-16 lg:px-20">
+        <div className="lg:w-1/2 w-full p-4 px-8 md:px-16 lg:px-20 mt-5">
           <div className="text-blue-700 font-bold text-2xl lg:text-3xl">
             C2C
             <div>DEVCONVO</div>
@@ -98,7 +98,7 @@ const Hero = () => {
         </div>
 
         <div className="lg:w-1/2 overflow-hidden lg:rounded-bl-3xl">
-          <img src={heroimg} alt="" className="w-full" />
+          <img src={heroimg} alt="" className="w-full md:h-[100vh]" />
         </div>
       </div>
 

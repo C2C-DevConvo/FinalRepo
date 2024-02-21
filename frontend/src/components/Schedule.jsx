@@ -14,7 +14,7 @@ const Schedule = () => {
         <p className="lg:w-1/2 m-auto text-center py-4 px-2 lg:px-0 lg:text-lg">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed repellat
           quaerat iusto perspiciatis sunt, cum sapiente sit molestias maxime hic
-          illum{" "}
+          illum
         </p>
 
         <div className="border-gradient lg:mt-0 mt-10   w-fit m-auto lg:px-2 bg-blue-50 ">

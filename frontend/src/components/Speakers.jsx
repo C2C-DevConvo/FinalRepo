@@ -6,7 +6,7 @@ import Grad from '../assets/Speakers1.png'
 
 const Speakers = () => {
   return (
-    <div>
+    <div className="mt-16">
       <div className="flex flex-col items-center lg:flex-row p-10 gap-5 lg:justify-center">
 
         <div className="p-1 border   border-gradient  w-fit md:w-1/5">
