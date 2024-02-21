@@ -1,0 +1,6 @@
+.border-gradient {
+  border-width: 2px; /* Adjust border width as needed */
+
+  border-style: solid;
+  border-image: linear-gradient(45deg, rgb(0, 132, 255), rgb(0, 255, 0), rgb(0, 157, 255)) 10;
+}
