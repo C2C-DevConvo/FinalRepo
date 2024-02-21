@@ -3,7 +3,6 @@ require('dotenv').config({path: './env'});
 
 import express from 'express';
 import connectDB from './db';
-import express from 'express';
 import bodyParser from 'body-parser';
 import cors from 'cors';
 
