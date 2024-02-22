@@ -22,7 +22,7 @@ const Schedule = () => {
             <div className="lg:px-10 font-semibold lg:text-lg lg:text-left">
               11:00 - <div>11:30 IST</div>
             </div>
-            <div className="lg:px-10 text-center">
+            <div className="lg:px-10 text-center lg:text-left">
               <p className="text-xs">
                 Tech For Social Impact: Startups Driving Change In Communities
               </p>
